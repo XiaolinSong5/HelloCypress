@@ -1,0 +1,22 @@
+{
+  "name": "hellocypress",
+  "version": "1.0.0",
+  "description": "cypress automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XiaolinSong5/HelloCypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XiaolinSong5/HelloCypress/issues"
+  },
+  "homepage": "https://github.com/XiaolinSong5/HelloCypress#readme",
+  "devDependencies": {
+    "cypress": "^13.6.0"
+  }
+}
